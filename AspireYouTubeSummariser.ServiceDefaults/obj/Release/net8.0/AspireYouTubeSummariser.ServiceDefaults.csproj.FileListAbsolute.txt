@@ -1,0 +1,13 @@
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\bin\Release\net8.0\AspireYouTubeSummariser.ServiceDefaults.deps.json
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\bin\Release\net8.0\AspireYouTubeSummariser.ServiceDefaults.dll
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\bin\Release\net8.0\AspireYouTubeSummariser.ServiceDefaults.pdb
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\obj\Release\net8.0\AspireYouTubeSummariser.ServiceDefaults.csproj.AssemblyReference.cache
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\obj\Release\net8.0\AspireYouTubeSummariser.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\obj\Release\net8.0\AspireYouTubeSummariser.ServiceDefaults.AssemblyInfoInputs.cache
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\obj\Release\net8.0\AspireYouTubeSummariser.ServiceDefaults.AssemblyInfo.cs
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\obj\Release\net8.0\AspireYouTubeSummariser.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\obj\Release\net8.0\AspireYouTubeSummariser.ServiceDefaults.sourcelink.json
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\obj\Release\net8.0\AspireYouTubeSummariser.ServiceDefaults.dll
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\obj\Release\net8.0\refint\AspireYouTubeSummariser.ServiceDefaults.dll
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\obj\Release\net8.0\AspireYouTubeSummariser.ServiceDefaults.pdb
+C:\workshop\aspire-app-dev-in-a-day-ko\workshop\AspireYouTubeSummariser.ServiceDefaults\obj\Release\net8.0\ref\AspireYouTubeSummariser.ServiceDefaults.dll
